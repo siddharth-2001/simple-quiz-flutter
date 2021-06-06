@@ -1,6 +1,6 @@
-# first_app
+# Simple Quiz App
 
-A new Flutter project.
+A simple quiz that asks the user 3 questions and then displays the total score according to the answers given.
 
 ## Getting Started
 
